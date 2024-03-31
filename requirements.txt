@@ -8,9 +8,11 @@ numpy==1.26.4
 packaging==24.0
 pandas==2.2.1
 pillow==10.2.0
+pygame==2.5.2
 pyparsing==3.1.2
 python-dateutil==2.9.0.post0
 pytz==2024.1
+simpy==4.1.1
 six==1.16.0
 tzdata==2024.1
 zipp==3.18.1
